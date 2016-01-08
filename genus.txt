@@ -1,0 +1,10 @@
+Anthozoa.Balanus.Demospongiae.Varians.Balaenoptera.Physalus.
+Eschrichtius.Robustus.Tursiops.Gillii.Zalophus.Californiacus.Hydrozoa.Thalassoma.
+Lucasanum.Mugilidae.Remora.Sardinops.Carcharhinidae.Chromis.Atrilobata.
+Oxycephalus.Calypte.Crotalus.Sterna.Pandion.Mirounga.Dipodomys.Brahea.Auxis.Dermatolepis.
+Phoca.Scyphozoa.Pterotrachae.Mysis.Megaptera.Abudefduf.Antennarius.Coralliozetus.
+Fistularia.Gymnothorax.Holacanthus.Johnrandallia.Bodianus.Sphyrna.Iewini.
+Amphiprion.Acropora.Dasyatis.Diadema.Jasus.Achaeus.Anilocra.
+Raja.Diomedea.Diploastrea.Salpa.Rhinopias.Junceella.
+Dalatias.Ardea.Exallias.Epinephelus.Minous.Mirounga.Stenella.Asymbolus.
+Echeneis.Egretta.Euprymna.Ellisella.Echinophryne
